@@ -1,11 +1,11 @@
-pandas
-numpy
-matplotlib
-seaborn
-joblib
-scikit-learn
-xgboost
-streamlit
+pandas,
+numpy,
+matplotlib,
+seaborn,
+joblib,
+scikit-learn,
+xgboost,
+streamlit,
 
 --
 Alzheimer's Disease Prediction with Machine Learning
