@@ -1,9 +1,10 @@
 # 🧠 Alzheimer’s Disease Classification using Machine Learning
 
+Iterface - 
+<img width="1536" height="1024" alt="ChatGPT Image Apr 23, 2026, 06_05_46 PM" src="https://github.com/user-attachments/assets/4e384ce1-3c94-4574-a4ac-9cedcdd8a5fe" />
+
 ## 📌 Project Overview
-
 Alzheimer’s disease is a progressive neurological disorder that leads to memory loss and cognitive decline. Early and accurate diagnosis is critical for timely treatment and care planning.
-
 This project focuses on building a **machine learning–based classification system** to predict whether a patient has Alzheimer’s disease based on clinical and/or imaging-related features. The goal is to assist healthcare professionals by providing a data-driven decision-support tool.
 
 ---
