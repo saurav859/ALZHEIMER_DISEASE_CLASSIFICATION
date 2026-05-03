@@ -1,7 +1,8 @@
 # 🧠 Alzheimer’s Disease Classification using Machine Learning
 
 Iterface - 
-<img width="1536" height="1024" alt="ChatGPT Image Apr 23, 2026, 06_05_46 PM" src="https://github.com/user-attachments/assets/4e384ce1-3c94-4574-a4ac-9cedcdd8a5fe" />
+<img width="1536" height="1024" alt="ALZHEIMER_DISEASE_CLASSIFICATION " src="https://github.com/user-attachments/assets/d00eee7c-1c32-45de-b6e2-71ab1eb0e0df" />
+
 
 ## 📌 Project Overview
 Alzheimer’s disease is a progressive neurological disorder that leads to memory loss and cognitive decline. Early and accurate diagnosis is critical for timely treatment and care planning.
